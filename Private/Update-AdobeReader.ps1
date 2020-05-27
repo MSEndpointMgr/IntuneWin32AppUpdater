@@ -29,6 +29,7 @@ if ($NewerAdobeReaderDCWin32Apps -eq $null) {
     }
 
     # Download the Adobe Reader setup file, this generally takes a while
+    Write-Output -InputObject "Downloading setup file from: $($AdobeReaderSetup.URL)"
     $WebClient = New-Object -TypeName "System.Net.WebClient"
     $WebClient.DownloadFile($AdobeReaderSetup.URL, $DownloadDestinationFilePath)
 

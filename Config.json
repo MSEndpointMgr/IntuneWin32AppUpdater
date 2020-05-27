@@ -1,0 +1,10 @@
+{
+    "Global": {
+        "TenantName": "null",
+        "ClientID": "THIS_IS_THE_CLIENT_ID",
+        "ClientSecret": "THIS_IS_THE_CLIENT_SECRET",
+        "Publisher": "MSEndpointMgr",
+        "OutputFolder": "C:\\IntuneWinAppUtil\\Output",
+        "WebHookUri": "https://9fc35f51-509e-4d33-bef9-a2483718cf3f.webhook.ne.azure-automation.net/webhooks?token=TRYTOGUESSTHIS"
+    }
+}

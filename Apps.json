@@ -1,0 +1,14 @@
+{
+    "Applications": [
+        {
+            "Name": "AdobeReaderDC",
+            "Enabled": "True",
+            "IconFile": "C:\\IntuneWinAppUtil\\Icons\\AdobeReader.png"
+        },
+        {
+            "Name": "GoogleChrome",
+            "Enabled": "True",
+            "IconFile": "C:\\IntuneWinAppUtil\\Icons\\Chrome.png"
+        }
+    ]
+}
